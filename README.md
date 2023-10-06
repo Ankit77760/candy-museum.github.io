@@ -12,6 +12,7 @@ CSS Framework is used to change the style of the webpage however some changes ha
     CSS
 This language is used to style and override the bootstrap features to change multiple things in Styling.
 
+    General
 Developed with help of Colt Steele UDEMY WEB DEVELOPMENT BOOTCAMP 2023.
 
 Images taken from unsplash. 
