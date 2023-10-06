@@ -1,6 +1,7 @@
 # candy-museum.github.io
 
     Technology Used
+    
 
     HTML 5 
 The webpage is created using HTML5 which is embedded with Bootstrap which helps in making it responsive in different screen-size.
