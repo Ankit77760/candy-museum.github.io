@@ -1,6 +1,5 @@
 # candy-museum.github.io
 
-    Technology Used
 Technologies Used -
 
     HTML 5 
