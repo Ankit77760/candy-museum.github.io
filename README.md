@@ -9,7 +9,7 @@ The webpage is created using HTML5 which is embedded with Bootstrap which helps 
 CSS Framework is used to change the style of the webpage however some changes have been made using CSS for styling also.
 
     CSS
-This is used to style and override the bootstrap features to change multiple things in Styling.
+CSS is used to style and override the bootstrap features to change multiple things in Styling.
 
     General
 Developed with help of Colt Steele UDEMY WEB DEVELOPMENT BOOTCAMP 2023.
